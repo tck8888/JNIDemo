@@ -249,4 +249,7 @@ public class MainActivity extends AppCompatActivity {
             android:textSize="16sp"/>
     </LinearLayout>
 </LinearLayout>*/
+
+    /*compile 'com.jakewharton.rxbinding2:rxbinding:2.0.0'
+    compile "io.reactivex.rxjava2:rxjava:2.x.y"*/
 }
