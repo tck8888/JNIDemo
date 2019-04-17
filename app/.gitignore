@@ -3,4 +3,4 @@
 /src/test/
 *.iml
 dia.jks
-
+/.externalNativeBuild/

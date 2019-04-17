@@ -1,2 +1,0 @@
-[1/2] Building CXX object CMakeFiles/calculator_lib.dir/src/main/cpp/calculator_lib.cpp.o
-[2/2] Linking CXX shared library ..\..\..\..\build\intermediates\cmake\debug\obj\arm64-v8a\libcalculator_lib.so
