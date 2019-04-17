@@ -15,7 +15,8 @@
         android:id="@+id/et_encryption_content"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="20dp" />
+        android:layout_marginTop="20dp"
+        android:hint="请输入要加密的内容" />
 
     <Button
         android:id="@+id/btn_jni_encryption"

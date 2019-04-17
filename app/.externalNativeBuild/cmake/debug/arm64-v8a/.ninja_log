@@ -1,3 +1,13 @@
 # ninja log v5
 1	475	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	df26ebecd130ff95
 477	663	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	e60eb4a8be094177
+3	525	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	df26ebecd130ff95
+525	682	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	e60eb4a8be094177
+3	563	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	df26ebecd130ff95
+563	686	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	e60eb4a8be094177
+0	150	0	CMakeFiles/native-lib.dir/src/main/cpp/calculator_lib.cpp.o	4d1c6f18a747f99d
+150	326	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	47188227bfceab05
+0	153	0	CMakeFiles/calculator_lib.dir/src/main/cpp/calculator_lib.cpp.o	e6f4a3faa27319bc
+153	276	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libcalculator_lib.so	1e255a53fefce180
+2	160	0	CMakeFiles/calculator_lib.dir/src/main/cpp/calculator_lib.cpp.o	e6f4a3faa27319bc
+160	276	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libcalculator_lib.so	1e255a53fefce180

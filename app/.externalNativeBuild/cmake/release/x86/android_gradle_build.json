@@ -19,7 +19,7 @@
 				
 				{
 					"flags" : "  --target=i686-none-linux-android24 --gcc-toolchain=C:/android-sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/android-sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++  -O2 -DNDEBUG  -fPIC    -c ",
-					"src" : "D:/android_project/JNIEncryption/app/src/main/cpp/native-lib.cpp",
+					"src" : "D:/android_project/JNIEncryption/app/src/main/cpp/calculator_lib.cpp",
 					"workingDirectory" : "D:/android_project/JNIEncryption/app/.externalNativeBuild/cmake/release/x86"
 				}
 			],
