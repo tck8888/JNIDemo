@@ -1,2 +1,3 @@
-# JNIDemo
-学习jni
+# JNIEncryption
+
+jni md5加密
