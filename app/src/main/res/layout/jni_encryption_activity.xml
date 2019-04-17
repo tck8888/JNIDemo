@@ -19,7 +19,7 @@
         android:hint="请输入要加密的内容" />
 
     <Button
-        android:id="@+id/btn_jni_encryption"
+        android:id="@+id/btn_java_encryption"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
@@ -32,7 +32,7 @@
         android:layout_marginTop="20dp" />
 
     <Button
-        android:id="@+id/btn_java_encryption"
+        android:id="@+id/btn_jni_encryption"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
