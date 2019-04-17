@@ -1,0 +1,38 @@
+
+{
+	"buildFiles" : [ "D:/android_project/JNIEncryption/app/CMakeLists.txt" ],
+	"cleanCommands" : 
+	[
+		"C:\\android-sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\android_project\\JNIEncryption\\app\\.externalNativeBuild\\cmake\\release\\x86_64 --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"native-lib-Release-x86_64" : 
+		{
+			"abi" : "x86_64",
+			"artifactName" : "native-lib",
+			"buildCommand" : "C:\\android-sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\android_project\\JNIEncryption\\app\\.externalNativeBuild\\cmake\\release\\x86_64 --target native-lib",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=x86_64-none-linux-android24 --gcc-toolchain=C:/android-sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/android-sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++  -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "D:/android_project/JNIEncryption/app/src/main/cpp/native-lib.cpp",
+					"workingDirectory" : "D:/android_project/JNIEncryption/app/.externalNativeBuild/cmake/release/x86_64"
+				}
+			],
+			"output" : "D:/android_project/JNIEncryption/app/build/intermediates/cmake/release/obj/x86_64/libnative-lib.so",
+			"toolchain" : "3260824449"
+		}
+	},
+	"toolchains" : 
+	{
+		"3260824449" : 
+		{
+			"cCompilerExecutable" : "C:/android-sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "C:/android-sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}

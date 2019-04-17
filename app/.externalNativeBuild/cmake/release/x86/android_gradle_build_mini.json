@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "D:\\android_project\\JNIEncryption\\app\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\android-sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\android_project\\JNIEncryption\\app\\.externalNativeBuild\\cmake\\release\\x86 --target clean"
+  ],
+  "libraries": {
+    "native-lib-Release-x86": {
+      "artifactName": "native-lib",
+      "buildCommand": "C:\\android-sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\android_project\\JNIEncryption\\app\\.externalNativeBuild\\cmake\\release\\x86 --target native-lib",
+      "abi": "x86",
+      "output": "D:\\android_project\\JNIEncryption\\app\\build\\intermediates\\cmake\\release\\obj\\x86\\libnative-lib.so"
+    }
+  }
+}
